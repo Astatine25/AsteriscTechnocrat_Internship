@@ -30,7 +30,10 @@ Included:
 You can install this application to test on your android smartphone. To download the signed application go to your chrome browser and copy-paste the download link:
 
 ```
-https://github.com/imShakil/BloodBank/releases/latest/download/blood-point.apk
+Installing this app is very simple:
+* Open Android Studio
+* Create a new project
+* Just clone this repository and run the project in your android device
 ```
 
 Download will be started automatically. After then install it on your android device.
